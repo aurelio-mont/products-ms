@@ -6,7 +6,7 @@
 
 ## Description
 
-[Products](https://github.com/MonteEpress-microservices/products-ms) Microservice TypeScript Repository.
+[Products](https://github.com/aurelio-mont/products-ms) Microservice TypeScript Repository.
 
 ## Installation
 
